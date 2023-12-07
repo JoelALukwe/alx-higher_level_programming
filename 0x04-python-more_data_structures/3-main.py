@@ -5,6 +5,9 @@ set_1 = { "Python", "C", "Javascript" }
 set_2 = { "Bash", "C", "Ruby", "Perl" }
 c_set = common_elements(set_1, set_2)
 print(sorted(list(c_set)))
+<<<<<<< HEAD
 
 guillaume@ubuntu:~/0x04$ ./3-main.py
 ['C']
+=======
+>>>>>>> 2644ec87cd923ce3b3de9e37752624d5401eeffd
