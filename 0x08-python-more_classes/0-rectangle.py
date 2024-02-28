@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""this syntax defines Rectangle class"""
+"""Defines a Rectangle class."""
 
 class Rectangle:
-    """ this represents a rectangle class. """
+    """Represent a rectangle."""
     pass
