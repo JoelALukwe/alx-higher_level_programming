@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 
 """this is where the base base model class will be defined."""
-import json, csv, turtle
-
+import json
+import csv
+import turtle
 
 
 class Base:
