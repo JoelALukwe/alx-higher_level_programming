@@ -1,5 +1,5 @@
 #!/usr/bin/node
-#this syntax will print three arguments
+//this is the syntax for displaying three statement.
 if (process.argv.length === 2) {
   console.log('No argument');
 } else if (process.argv.length === 3) {
