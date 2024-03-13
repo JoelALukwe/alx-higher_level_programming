@@ -5,6 +5,7 @@ const myObject = {
 };
 console.log(myObject);
 /*
-YOUR CODE HERE
+THIS IS THE COMMAND OF MY CODE
 */
+myObject.value = 89;
 console.log(myObject);
