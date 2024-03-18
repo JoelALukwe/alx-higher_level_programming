@@ -2,6 +2,7 @@
 """Start link class to table in database
 """
 import sys
+from sqlalchemy import create_engine  # Import create_engine explicitly
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, Integer, String
 
