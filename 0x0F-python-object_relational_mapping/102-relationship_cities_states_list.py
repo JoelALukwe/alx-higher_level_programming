@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-""" prints the State object with the name passed as argument from the database
-"""
+""" this code block will list all City objects from the database hbtn_0e_101_usa """
 import sys
 from relationship_state import Base, State
 from relationship_city import City
